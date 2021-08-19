@@ -29,3 +29,4 @@ bundle
 dist
 .notes
 *.tar.gz
+.vscode/settings.json
